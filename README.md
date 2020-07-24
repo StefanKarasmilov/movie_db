@@ -2,4 +2,4 @@
 
 ### Versión: beta.
 
-![] (movie_db1.gif)
+![](movie_db1.gif)
